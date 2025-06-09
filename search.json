@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Billboard Graphic",
+    "section": "",
+    "text": "Warning in RColorBrewer::brewer.pal(n, pal): n too large, allowed maximum for palette Set1 is 9\nReturning the palette you asked for with that many colors\n\n\nWarning: Removed 1283 rows containing missing values or values outside the scale range\n(`geom_line()`).\n\n\nWarning: Removed 1283 rows containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\nTop 5 Billboard Songs of 2000 - Weekly Performance"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
