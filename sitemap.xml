@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://anishtalla27.github.io/website-2/source-2.html</loc>
+    <lastmod>2025-06-09T02:29:41.573Z</lastmod>
+  </url>
+  <url>
     <loc>https://anishtalla27.github.io/website-2/index.html</loc>
     <lastmod>2025-06-09T02:13:54.581Z</lastmod>
   </url>
   <url>
     <loc>https://anishtalla27.github.io/website-2/about.html</loc>
     <lastmod>2025-06-09T02:18:57.913Z</lastmod>
+  </url>
+  <url>
+    <loc>https://anishtalla27.github.io/website-2/source-1.html</loc>
+    <lastmod>2025-06-09T02:29:25.735Z</lastmod>
   </url>
 </urlset>
