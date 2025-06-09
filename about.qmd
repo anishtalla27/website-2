@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Anish Talla**, and I attend *Lightridge Highschool*.
 
-About this site
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
